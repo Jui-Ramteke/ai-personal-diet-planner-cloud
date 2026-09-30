@@ -668,7 +668,13 @@ This software application is developed **exclusively for academic, educational, 
 
 ## 👤 Author
 
-* **Project:** AI-Powered Personal Diet Planner with Cloud Storage
-* **Course:** Cloud Computing Capstone Project
-* **Specialization:** Cloud Application Engineering & Distributed Systems
-* **License:** Apache License 2.0
+## Jui Ramteke
+
+**GitHub:**  
+https://github.com/Jui-Ramteke
+
+**LinkedIn:**  
+https://www.linkedin.com/in/jui-ramteke/
+
+**Instagram:**  
+https://www.instagram.com/jui_ramteke_/
