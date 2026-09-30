@@ -1,0 +1,6 @@
+{
+  "name": "AI-Powered Personal Diet Planner with Cloud Storage",
+  "description": "A comprehensive cloud computing showcase application featuring AI and rule-based meal generation, cloud database and object storage simulation, JWT authentication, and interactive cloud architecture explorer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,19 @@
+{
+  "dietary_categories": {
+    "Vegetarian": {
+      "proteins": ["Paneer", "Tofu", "Lentils", "Chickpeas", "Greek Yogurt", "Edamame", "Hemp Seeds"],
+      "carbs": ["Brown Basmati Rice", "Quinoa", "Rolled Oats", "Sweet Potatoes", "Sprouted Whole Wheat Bread"],
+      "fats": ["Extra Virgin Olive Oil", "Almonds", "Walnuts", "Chia Seeds", "Flaxseed Oil", "Avocado"]
+    },
+    "Vegan": {
+      "proteins": ["Organic Tempeh", "Silken Tofu", "Black Beans", "Nutritional Yeast", "Seitan", "Lentils"],
+      "carbs": ["Wild Red Rice", "Steel-Cut Oats", "Ezekiel Bread", "Butternut Squash", "Tri-Color Quinoa"],
+      "fats": ["Haas Avocado", "Pumpkin Seeds", "Tahini", "Cold-Pressed Coconut Oil", "Walnuts"]
+    },
+    "General/Non-Vegetarian": {
+      "proteins": ["Free-Range Eggs", "Chicken Breast", "Atlantic Salmon", "Turkey Breast", "Lean Beef"],
+      "carbs": ["Sweet Potato", "Jasmine Rice", "Organic Oatmeal", "Whole Grain Pasta"],
+      "fats": ["Avocado", "Extra Virgin Olive Oil", "Almonds", "Grass-Fed Butter"]
+    }
+  }
+}
